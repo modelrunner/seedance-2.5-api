@@ -138,8 +138,9 @@ schedule:
 5s → 30s → 2m → 5m → 10m → 20m → 30m → 45m → 60m
 ```
 
-Ten attempts over roughly two hours. Two things stop retries immediately: a `410 Gone`, and
-a URL that resolves to a private address.
+Ten attempts in all — the original plus the nine retries above — spread over roughly three
+hours. Two things stop retries immediately: a `410 Gone`, and a URL that resolves to a
+private address.
 
 ## When nothing arrives
 

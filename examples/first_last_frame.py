@@ -91,8 +91,9 @@ print(f"Video URL: {result['output']}")
 
 
 # -------------------------------------------------------------------
-# A seamless loop. Pass the same URL as both frames and the clip returns
-# to exactly where it started, so it can be looped without a visible cut.
+# A loop. Pass the same URL as both frames and the clip returns to exactly
+# where it started. That matches the endpoints; how cleanly the motion
+# joins is down to the shot.
 # -------------------------------------------------------------------
 # frame = "https://example.com/prayer-flags.jpg"
 # handle = modelrunner_ai.submit(

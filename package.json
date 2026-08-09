@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@modelrunner/client": "^1.2.2",
+    "express": "^5.2.1"
+  }
+}

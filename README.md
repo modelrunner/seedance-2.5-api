@@ -16,6 +16,8 @@ first-and-last-frame transitions, and video to video restyling.
 This repository is documentation and runnable examples for the Seedance 2.5 API: model IDs,
 every input parameter, real prices, prompt guidance, and working Python and JavaScript code.
 
+> **[Seedance 2.5 Details →](https://modelrunner.ai/seedance-2-5)**
+
 > **[Run Seedance 2.5 in the playground →](https://modelrunner.ai/models/bytedance/seedance-v2.5/text-to-video)**
 
 ## Contents

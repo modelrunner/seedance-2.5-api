@@ -96,6 +96,10 @@ different clips.
 
 ---
 
+> **Maintaining an open-source project?** ModelRunner gives active open-source
+> projects free monthly API credits — apply at
+> [modelrunner.ai/oss-program](https://modelrunner.ai/oss-program).
+
 ## Quick Start
 
 ### Python
